@@ -2221,23 +2221,12 @@ input, select, textarea {
 
 /* Video */
 
-		.video.main {
-			display: block;
-			margin: 2.5em 0;
-			width: 100%;
-		}
+	.video {
+		display: block;
+		margin: 2.5em 0;
+		width: 100%;
+	}
 
-			.video.main vid {
-				width: 100%;
-			}
-
-			@media screen and (max-width: 736px) {
-
-				.video.main {
-					margin: 1.5em 0;
-				}
-
-			}
 
 
 /* List */
