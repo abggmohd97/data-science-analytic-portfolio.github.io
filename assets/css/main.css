@@ -2221,9 +2221,9 @@ input, select, textarea {
 
 /* Video */
 
-	.video {
+	video {
 		display: block;
-		margin: 2.5em 0;
+		margin: 0 auto;
 		width: 100%;
 	}
 
