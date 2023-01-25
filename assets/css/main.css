@@ -2218,6 +2218,16 @@ input, select, textarea {
 
 			}
 
+
+/* Video */
+
+	video {
+		display: block;
+		margin: 0 auto;
+	}
+
+
+
 /* List */
 
 	ol {
